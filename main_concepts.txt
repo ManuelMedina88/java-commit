@@ -1,0 +1,17 @@
+The process-oriented model can be thought of as code acting on data.  ref. 254,6 / 2051
+
+Object-oriented programming organizes a program around its data (that is, objects) and a set of well-defined interfaces to that data. An object-oriented program can be characterized as data controlling access to code. ref 255,1 / 2051
+
+the data defined by the class are referred to as member variables or instance variables.
+
+The code that operates on that data is referred to as member methods or just methods.
+
+Polymorphism (from Greek, meaning “many forms”) is a feature that allows one interface to be used for a general class of actions.
+
+In Java, a source file is officially called a compilation unit.
+
+the single source-file launch => java Example.java
+
+narrowing conversion.
+
+reduced modulo
